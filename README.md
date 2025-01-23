@@ -145,4 +145,4 @@ Contributions are welcome! If you'd like to contribute to Shelify, please follow
 
 ---  
 
-Enjoy using **Shelify** and happy reading/listening! 😊  
+Enjoy using **Shelify** and happy reading/listening!
