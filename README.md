@@ -145,4 +145,4 @@ Contributions are welcome! If you'd like to contribute to Shelify, please follow
 
 ---  
 
-Thanks for using *Shelify*
+Thanks for using *Shelify*.
