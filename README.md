@@ -17,7 +17,7 @@
 - **Play Audiobooks Online**: Enjoy streaming your audiobooks seamlessly.  
 - **Audio Player Controls**:  
   - Adjust playback speed.  
-  - Seek 5 seconds backward or forward for a smoother listening experience.  
+  - Jump few seconds backward or forward for a smoother listening experience.  
 - **Favorites**: Keep track of your favorite audiobooks.  
 
 ### **Account Management**  
